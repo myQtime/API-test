@@ -8,7 +8,7 @@
     "City": "台北市",
     "Dist": "信義區",
     "Add": "松仁路56號16樓D室",
-    "house_type":"分租雅房",
+    "house_type": "分租雅房",
     "Email": "Lara@gmail.com",
     "moble": "0997-583-604",
     "start_date": "2021-09-10",
@@ -26,4 +26,4 @@
     "power_include": false,
     "power_fee": 4.3,
     "Contract_statu": "signed"
-  }
+}

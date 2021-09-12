@@ -8,7 +8,7 @@
     "City": "桃園市",
     "Dist": "楊梅區",
     "Add": "幸福路二段16巷1號2樓",
-    "house_type":"獨立套房",
+    "house_type": "獨立套房",
     "Email": "Cleveland@gmail.com",
     "moble": "0951-685-152",
     "start_date": "2021-04-09",
@@ -26,4 +26,4 @@
     "power_include": true,
     "power_fee": 0,
     "Contract_statu": "signed"
-  }
+}

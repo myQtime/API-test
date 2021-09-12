@@ -8,7 +8,7 @@
     "City": "新北市",
     "Dist": "五股區",
     "Add": "小東路5號",
-    "house_type":"透天厝",
+    "house_type": "透天厝",
     "Email": "Gail@gmail.com",
     "moble": "0966-975-837",
     "start_date": "2021-03-16",
@@ -26,4 +26,4 @@
     "power_include": false,
     "power_fee": 0,
     "Contract_statu": "signed"
-  }
+}

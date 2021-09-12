@@ -8,7 +8,7 @@
     "City": "桃園市",
     "Dist": "桃園區",
     "Add": "中正路80號",
-    "house_type":"透天厝",
+    "house_type": "透天厝",
     "Email": "Helga@gmail.com",
     "moble": "0917-108-376",
     "start_date": "2021-04-03",
@@ -26,4 +26,4 @@
     "power_include": false,
     "power_fee": 4.6,
     "Contract_statu": "signed"
-  }
+}

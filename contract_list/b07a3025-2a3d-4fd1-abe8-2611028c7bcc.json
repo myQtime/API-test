@@ -8,7 +8,7 @@
     "City": "台北市",
     "Dist": "北投區",
     "Add": "溫泉路44號4號",
-    "house_type":"整層住家",
+    "house_type": "整層住家",
     "Email": "Pope@gmail.com",
     "moble": "0933-619-255",
     "start_date": "2021-08-06",
@@ -26,4 +26,4 @@
     "power_include": true,
     "power_fee": 0,
     "Contract_statu": "signed"
-  }
+}
